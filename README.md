@@ -9,21 +9,28 @@
 
 ## Advisory
   This file uses the following code provided via the project instructions: https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html#a3
+<b> </b>
 
 <li> Crowdfunding </li>
   The 'Crowdfunding' tab contains pre-populated data provided as part of the exercise, which was then formatted according to the project instructions. 
+<b> </b>
 
 <li> Analysis of Parent Category</li>
   The 'Analysis of Parent Category' tab contains a pivot table and stacked pivot chart which visualises the campaign outcome statuses based on the Parent Categories.
+  <b> </b>
 
 <li> Analysis 0f Sub-Category</li>
   The 'Analysis of Sub-Category' tab contains a pivot table and stacked pivot chart which visualises the campaign outcome statuses based on the Sub-Categories.
+  <b> </b>
 
 <li> Analysis based on Date Created</li>
   The 'Analysis based on Date Created' tab contains a pivot table and line graph which visualises completion rate based on the date the campaigns were created.
+  <b> </b>
 
 <li> Crowdfunding Goal Analysis</li>
   The 'Crowdfunding Goal Analysis' tab presents calculations of percentages for projects that were successful,failed, or cancelled; and a graph to visualise the relationship between the goal amount and project outcome.
+  <b> </b>
   
 <li> Statistical Analysis</li>
 The 'Statistical Analysis' tab presents a summary statistics table to quantify the number of campaign backers of successful and unsuccessful campaigns.
+<b> </b>
